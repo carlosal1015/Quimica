@@ -1,9 +1,5 @@
 <!-- background: #fff4e3 -->
 <!-- color: #2d2422 --> 
-{
-
-  background-color: #444;
-}
 # Química
 [![Build Status](https://travis-ci.org/gnab/remark.svg?branch=develop)]()
 
