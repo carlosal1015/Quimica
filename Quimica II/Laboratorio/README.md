@@ -1,5 +1,5 @@
 # Cronograma
-**Revisión de los Reportes y Preinformes Química II.**
+**Revisión de los Reportes y Preinformes Química II**
 
 |N°   | Laboratorio                   |Responsable de la revisión y preinforme|
 |:---:| :----------------------------:|:-------------------------------------:|
