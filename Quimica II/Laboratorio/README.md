@@ -1,9 +1,8 @@
 # Cronograma
 
-**Espero que les sirva mucho.** ^^<br />
-PD: Lo siento por no subir mis ejemplos propuestos :)
-##Bibliografía##<br />
-##Horario de clases Introductorio de matemática 2017-1##<br />
+**Espero que les sirva mucho.**
+## Bibliografía##<br />
+## Horario de clases ##
 | Clases                        |Temas                    |
 | :----------------------------:|:-----------------------:|
 | Jueves 2 de marzo del 2017    |Derivadas                | 
