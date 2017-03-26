@@ -2,10 +2,8 @@
 
 **Espero que les sirva mucho.** ^^<br />
 PD: Lo siento por no subir mis ejemplos propuestos :)
-##Bibliografía##
-
-*Si necesitas reforzar, puedes asistir a más de una clase con otro profesor =).
-##Horario de clases Introductorio de matemática 2017-1##
+##Bibliografía##<br />
+##Horario de clases Introductorio de matemática 2017-1##<br />
 | Clases                        |Temas                    |
 | :----------------------------:|:-----------------------:|
 | Jueves 2 de marzo del 2017    |Derivadas                | 
