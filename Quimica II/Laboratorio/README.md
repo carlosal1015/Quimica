@@ -1,5 +1,6 @@
 # Cronograma
 **Revisión de los Reportes y Preinformes Química II.**
+
 |N°   | Laboratorio                   |Responsable de la revisión y preinforme|
 |:---:| :----------------------------:|:-------------------------------------:|
 |1|Introducción al trabajo en el laboratorio|R. Sayán| 
