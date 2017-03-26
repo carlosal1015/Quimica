@@ -8,3 +8,6 @@
 |3|Calor de disolución|A. Corzo|
 |4|Equilibrio químico|E. Carpio|
 |5|Equilibrio ácido-base|J. Rojas|
+|6|Formación de iones complejos|M. La Torre|
+|7|Cinética de las reacciones|J.Flores|
+|8|Celdas electroquímicas|Y. Pastrana|
